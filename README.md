@@ -79,8 +79,7 @@ The extracted module and submodule data will be saved to output.json.
 
 📈 Sample Output
 json
-Copy
-Edit
+
 [
   {
     "module": "Application Management",
